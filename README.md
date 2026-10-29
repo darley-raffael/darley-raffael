@@ -1,15 +1,77 @@
-<h1 align="center">Olá 👋, eu sou o Dárley Raffael</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<!-- markdownlint-disable MD033 MD041 -->
+<div align="center">
 
-- 🔭 Atualmente construindo o **web-ferramentas**, um conjunto de calculadoras e ferramentas web para o trabalhador brasileiro (SvelteKit + Svelte 5 + Tailwind + Bun)
-- 🌱 Estudando **Arquitetura de Software**, **Node.js**, **NestJS** e **Svelte 5 / SvelteKit**
-- 📚 Projetos públicos de estudo: [Arquitetura Limpa](https://github.com/darley-raffael/clean-arch-concepts), [DDD](https://github.com/darley-raffael/ddd-example) e [Capitão Caravana](https://github.com/darley-raffael/capitao-caravana)
-- 💼 Trabalho no Sicoob SC/RS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=D%C3%A1rley%20Raffael&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=60" alt="Dárley Raffael — Desenvolvedor Full Stack" />
 
-<h3 align="left">Stack e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://bun.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=5EEAD4&center=true&vCenter=true&width=620&lines=Transformando+problemas+em+software;Arquitetura+de+Software+%7C+Node.js+%7C+NestJS;Front-end+moderno+com+React%2C+Next.js+e+Svelte" alt="Frases animadas" />
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darley-raffael&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas" />
-<img src="https://github-readme-stats.vercel.app/api?username=darley-raffael&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<br />
+
+![Localização](https://img.shields.io/badge/Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Foco](https://img.shields.io/badge/Full_Stack-0f766e?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Estudando](https://img.shields.io/badge/Estudando-Arquitetura_de_Software-6d28d9?style=for-the-badge&logo=bookstack&logoColor=white)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estruturadas, do banco de dados à interface. Gosto de código limpo, de boas práticas e de entender o *porquê* das decisões de arquitetura, não só de fazer funcionar.
+
+- 🌱 Estudando **Arquitetura de Software**, **Node.js** e **NestJS**
+- 🧱 Interesse especial em **Arquitetura Limpa**, **DDD** e **APIs REST**
+- 🔎 Sempre aprendendo e experimentando novas tecnologias
+
+---
+
+## 🛠️ Stack
+
+### 🎨 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,sass&perline=9" alt="Front-end" />
 </p>
+
+### ⚙️ Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,prisma,bun&perline=7" alt="Back-end" />
+</p>
+
+### 🗄️ Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" alt="Bancos de dados" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+</p>
+
+### 🧰 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim,postman&perline=6" alt="Ferramentas" />
+</p>
+
+---
+
+## 📚 Conhecimentos
+
+| Área | Tópicos |
+| :-- | :-- |
+| 🏛️ **Arquitetura** | Arquitetura Limpa · DDD · Princípios SOLID |
+| 🔌 **APIs** | REST · Autenticação · Filas · Filtros avançados |
+| 🧪 **Qualidade** | Testes automatizados · Código limpo |
+| 🚀 **Entrega** | Git · Docker · Boas práticas de versionamento |
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darley-raffael&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darley-raffael&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" width="100%" />
