@@ -11,6 +11,8 @@
 ![Foco](https://img.shields.io/badge/Full_Stack-0f766e?style=for-the-badge&logo=stackblitz&logoColor=white)
 ![Estudando](https://img.shields.io/badge/Estudando-Arquitetura_de_Software-6d28d9?style=for-the-badge&logo=bookstack&logoColor=white)
 
+[![GitHub profissional](https://img.shields.io/badge/GitHub_Profissional-raffael--sicoob-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffael-sicoob)
+
 </div>
 
 ---
@@ -21,6 +23,7 @@ Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estr
 
 - 🌱 Estudando **Arquitetura de Software**, **Node.js** e **NestJS**
 - 🧱 Interesse especial em **Arquitetura Limpa**, **DDD** e **APIs REST**
+- 🔷 Interesse em **.NET** e no ecossistema C#
 - 🔎 Sempre aprendendo e experimentando novas tecnologias
 
 ---
@@ -36,7 +39,7 @@ Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estr
 ### ⚙️ Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,prisma,bun&perline=7" alt="Back-end" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python,fastapi,prisma,bun&perline=8" alt="Back-end" />
 </p>
 
 ### 🗄️ Banco de dados
@@ -62,6 +65,21 @@ Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estr
 | 🔌 **APIs** | REST · Autenticação · Filas · Filtros avançados |
 | 🧪 **Qualidade** | Testes automatizados · Código limpo |
 | 🚀 **Entrega** | Git · Docker · Boas práticas de versionamento |
+
+### 🔭 Em exploração
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+</p>
+
+---
+
+## 🔗 Contas
+
+| Conta | Perfil |
+| :-- | :-- |
+| 👤 **Pessoal** | [@darley-raffael](https://github.com/darley-raffael) |
+| 💼 **Profissional** | [@raffael-sicoob](https://github.com/raffael-sicoob) |
 
 ---
 
