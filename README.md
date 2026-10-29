@@ -1,82 +1,91 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=D%C3%A1rley%20Raffael&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=60" alt="Dárley Raffael — Desenvolvedor Full Stack" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:2563eb,100:06b6d4&height=280&text=D%C3%A1rley%20Raffael&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Arquitetura%20de%20Software&descSize=20&descAlignY=60" alt="Dárley Raffael — Desenvolvedor Full Stack" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=5EEAD4&center=true&vCenter=true&width=620&lines=Transformando+problemas+em+software;Arquitetura+de+Software+%7C+Node.js+%7C+NestJS;Front-end+moderno+com+React%2C+Next.js+e+Svelte" alt="Frases animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Transformando+ideias+em+software;Microsservi%C3%A7os+%7C+Clean+Architecture+%7C+DDD;Agentes+de+IA+%7C+Azure+%7C+Node.js+%7C+Go;Sempre+aprendendo%2C+sempre+evoluindo" alt="Frases animadas" />
 
-<br />
-
-![Localização](https://img.shields.io/badge/Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Foco](https://img.shields.io/badge/Full_Stack-0f766e?style=for-the-badge&logo=stackblitz&logoColor=white)
-![Estudando](https://img.shields.io/badge/Estudando-Arquitetura_de_Software-6d28d9?style=for-the-badge&logo=bookstack&logoColor=white)
+<br /><br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D%C3%A1rley_Raffael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1rley-raffael/)
-
 [![GitHub profissional](https://img.shields.io/badge/GitHub_Profissional-raffael--sicoob-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffael-sicoob)
+![Visitas](https://komarev.com/ghpvc/?username=darley-raffael&style=for-the-badge&color=7c3aed&label=VISITAS)
 
 </div>
 
----
+<br />
 
-## 👨‍💻 Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=56&text=Sobre%20mim&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Sobre mim" width="100%" />
 
-Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estruturadas, do banco de dados à interface. Gosto de código limpo, de boas práticas e de entender o *porquê* das decisões de arquitetura, não só de fazer funcionar.
+<br />
 
-- 🌱 Estudando **Arquitetura de Software**, **Node.js** e **NestJS**
-- 🧱 Interesse especial em **Arquitetura Limpa**, **DDD** e **APIs REST**
-- 🔷 Interesse em **.NET** e no ecossistema C#
-- 🔎 Sempre aprendendo e experimentando novas tecnologias
+<div align="center">
 
----
+Sou desenvolvedor **Full Stack**, **formado em Arquitetura de Software**, apaixonado por construir aplicações bem estruturadas, do banco de dados à interface.
+Gosto de código limpo, de boas práticas e de entender o *porquê* das decisões de arquitetura.
 
-## 🛠️ Stack
+| 🧱 Arquitetura | 🤖 Inteligência Artificial | ☁️ Nuvem |
+| :--: | :--: | :--: |
+| Microsserviços<br />Clean Architecture<br />DDD | Agentes de IA<br />Integração de IA<br />Dev assistido por IA | Azure<br />CI/CD<br />Docker |
 
-### 🎨 Front-end
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,sass&perline=9" alt="Front-end" />
-</p>
+<br />
 
-### ⚙️ Back-end
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=56&text=Stack&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Stack" width="100%" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python,fastapi,prisma,bun&perline=8" alt="Back-end" />
-</p>
+<br />
 
-### 🗄️ Banco de dados
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" alt="Bancos de dados" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,sass&perline=9" alt="Front-end" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python,fastapi,prisma,bun&perline=8" alt="Back-end" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,redis,azure,docker,git,github,linux,neovim,postman&perline=9" alt="Dados, nuvem e ferramentas" />
+<br /><br />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 
-### 🧰 Ferramentas
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim,postman&perline=6" alt="Ferramentas" />
-</p>
+<br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=56&text=Em%20explora%C3%A7%C3%A3o&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Em exploração" width="100%" />
 
-## 📚 Conhecimentos
+<br />
 
-| Área | Tópicos |
-| :-- | :-- |
-| 🏛️ **Arquitetura** | Arquitetura Limpa · DDD · Princípios SOLID |
-| 🔌 **APIs** | REST · Autenticação · Filas · Filtros avançados |
-| 🧪 **Qualidade** | Testes automatizados · Código limpo |
-| 🚀 **Entrega** | Git · Docker · Boas práticas de versionamento |
+<div align="center">
 
-### 🔭 Em exploração
+<img src="https://skillicons.dev/icons?i=dotnet,cs,go" alt=".NET, C# e Go" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-</p>
+**.NET** e o ecossistema C# · **Go** para serviços · **Arquiteturas orientadas a agentes de IA**
 
----
+</div>
 
-## 🔗 Contas
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=56&text=GitHub&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="GitHub" width="100%" />
+
+<br />
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darley-raffael&theme=radical" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darley-raffael&theme=radical" alt="Linguagens mais usadas nos commits" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darley-raffael&theme=radical" alt="Repositórios por linguagem" />
+<img height="180" src="https://streak-stats.demolab.com/?user=darley-raffael&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=56&text=Contas&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Contas" width="100%" />
+
+<br />
+
+<div align="center">
 
 | Conta | Perfil |
 | :-- | :-- |
@@ -84,18 +93,6 @@ Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estr
 | 💼 **Profissional** | [@raffael-sicoob](https://github.com/raffael-sicoob) |
 | 🔗 **LinkedIn** | [Dárley Raffael](https://www.linkedin.com/in/d%C3%A1rley-raffael/) |
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darley-raffael&theme=tokyonight" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darley-raffael&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darley-raffael&theme=tokyonight" alt="Repositórios por linguagem" />
-<img height="180" src="https://streak-stats.demolab.com/?user=darley-raffael&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:06b6d4&height=120&section=footer" alt="" width="100%" />
