@@ -11,6 +11,8 @@
 ![Foco](https://img.shields.io/badge/Full_Stack-0f766e?style=for-the-badge&logo=stackblitz&logoColor=white)
 ![Estudando](https://img.shields.io/badge/Estudando-Arquitetura_de_Software-6d28d9?style=for-the-badge&logo=bookstack&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D%C3%A1rley_Raffael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1rley-raffael/)
+
 [![GitHub profissional](https://img.shields.io/badge/GitHub_Profissional-raffael--sicoob-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffael-sicoob)
 
 </div>
@@ -80,6 +82,7 @@ Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estr
 | :-- | :-- |
 | 👤 **Pessoal** | [@darley-raffael](https://github.com/darley-raffael) |
 | 💼 **Profissional** | [@raffael-sicoob](https://github.com/raffael-sicoob) |
+| 🔗 **LinkedIn** | [Dárley Raffael](https://www.linkedin.com/in/d%C3%A1rley-raffael/) |
 
 ---
 
