@@ -69,8 +69,11 @@ Sou desenvolvedor **Full Stack**, apaixonado por construir aplicações bem estr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darley-raffael&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darley-raffael&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darley-raffael&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darley-raffael&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darley-raffael&theme=tokyonight" alt="Repositórios por linguagem" />
+<img height="180" src="https://streak-stats.demolab.com/?user=darley-raffael&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
